@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  select {
+    width: 100%;
+  }
+  
+  input {
+    width: 100%;
+  }
